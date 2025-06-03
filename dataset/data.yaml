@@ -1,0 +1,6 @@
+names:
+  0: object
+path: /content/drive/My Drive/dataset
+train: images/train
+val: images/val
+test: images/test
