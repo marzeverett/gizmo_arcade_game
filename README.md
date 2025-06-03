@@ -396,6 +396,8 @@ Transfer the model over to the raspberry pi with scp or a thumdrive.
     scp best.pt pi@"replace with pi ip address":/home/pi/gizmo_arcade_game/code/best.pt
 ```
 
+The pi's username is **pi** and the password is **raspberry**
+
 You can test the file by running the terminal command (inside the code file)
 
 ```bash
