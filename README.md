@@ -211,6 +211,9 @@ For example, see how the "test" task is set up below.
         - val 
             - bunch of val .txt files 
 
+
+**You should now delete the "placeholder.txt" files from each folder.**
+
 ### The .txt files 
 If you look an individual .txt file, you will see something in it like this
 
